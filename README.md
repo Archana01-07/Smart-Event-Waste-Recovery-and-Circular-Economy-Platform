@@ -1,4 +1,4 @@
-# EcoLoop  — Smart Event Waste Recovery Platform
+# Smart Event Waste Recovery Platform
 
 Production-level React frontend for a circular economy SaaS platform connecting event organizers, NGOs/recyclers, and city admins.
 
@@ -73,4 +73,4 @@ src/
 - `npm run build` — production build
 - `npm run preview` — preview production build
 
-Frontend only — no backend. Replace mock services in `src/services/api.js` with real API endpoints when ready.
+
